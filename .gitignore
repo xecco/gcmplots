@@ -77,7 +77,7 @@ m_map/*.html
 
 ## Project Specific ##
 ######################
-
+__pycache__
 
 ## MISC ##
 ##########
